@@ -1,0 +1,36 @@
+.image-container {
+    max-height: 400px;
+}
+
+.choose-image-container img {
+    width: 20px !important;
+}
+
+.slider input {
+    cursor: pointer;
+}
+
+.filter-btns-container button {
+    max-width: 35px;
+}
+
+.flip-btns-container button {
+    max-width: 35px;
+}
+
+.save-and-reset-btns .reset:hover {
+    background-color: #0d6efd !important;
+}
+
+.save {
+    background-color: green;
+}
+
+.active {
+    background-color: #63c7ae80 !important
+}
+
+.disabled {
+    opacity: 0.7;
+    pointer-events: none;
+}
